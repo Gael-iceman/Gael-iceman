@@ -1,0 +1,58 @@
+<!-- <html>
+  <body>
+    <h1>javascript variables:addition programm</h1>
+    <script>
+      function addition() {
+        let a = 5;
+        let b = 6;
+        let sum = a + b;
+        console.log(sum);
+      }
+      addition();
+    </script>
+  </body>
+</html> -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Gael's calculator</title>
+  
+</head>
+<body>
+  <script>
+    let num1=parseInt(prompt("enter the first number:"));
+    let operation=(prompt("enter the operation:"));
+    let num2=parseInt(prompt("enter the second number:"));
+    // firstNumber = parseFloat(firstNumber);
+    // secondNumber = parseFloat(secondNumber);
+ let result;
+ 
+    function addition(){
+  result=num1+num2;
+    }
+    function subtraction(){
+  result=num1-num2;
+    }
+    function multiplication(){
+  result=num1*num2;
+    }
+    function division(){
+  result=num1/num2;
+    }
+    switch(operation){
+      case "+":addition();
+      break;
+      case "-":subtraction();
+      break;
+      case "*":multiplication();
+      break;
+      case "/":division();
+      break;
+    }
+alert(`Result: ${result}`);
+   
+  </script>
+</body>
+</html>
