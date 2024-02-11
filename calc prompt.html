@@ -1,0 +1,56 @@
+  <!DOCTYPE html>
+<html>
+<head>
+    <title>Simple pop up Calculator</title>
+    <link rel="icon" type="image/x-icon" href="Screenshot 2023-10-30 144031.png">
+  </head>
+<body>
+<script>
+// Function to perform basic calculations
+function calculator() {
+    // Ask for the first number
+    let firstNumber = prompt("Enter the first number:");
+
+    // Ask for the operation
+    let operation = prompt("Enter the operation (+, -, *, /):");
+
+    // Ask for the second number
+    let secondNumber = prompt("Enter the second number:");
+
+    // Convert the input strings to numbers
+    firstNumber = parseFloat(firstNumber);
+    secondNumber = parseFloat(secondNumber);
+
+    // Perform the calculation based on the operation entered
+    let result;
+    switch (operation) {
+        case '+':
+            result = firstNumber + secondNumber;
+            break;
+        case '-':
+            result = firstNumber - secondNumber;
+            break;
+        case '*':
+            result = firstNumber * secondNumber;
+            break;
+        case '/':
+            if (secondNumber === 0) {
+                result = "Cannot divide by zero!";
+            } else {
+                result = firstNumber / secondNumber;
+            }
+            break;
+        default:
+            result = "Invalid operation";
+    }
+
+    // Display the result in an alert
+    alert(`Result: ${result}`);
+}
+
+// Call the calculator function to start the calculation process
+calculator();
+</script>
+
+</body>
+</html>
