@@ -1,32 +1,137 @@
-<h1 align="center">Hi 👋, I'm RUTAYISIRE Gael</h1>
-<h3 align="center">I am a full-stack developer from Rwanda</h3>
+# 👋 Hi, I'm Gael Rutayisire
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gael-iceman&label=Profile%20views&color=0e75b6&style=flat" alt="gael-iceman" /> </p>
+💻 Java Backend Engineer | 🔐 Cybersecurity Specialist | ☁️ Cloud & AI Enthusiast  
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gael-iceman" alt="gael-iceman" /></a> </p>
+---
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+## 🚀 About Me
 
-- 🌱 I’m currently learning **Ruby , Java**
+I am a backend-focused software engineer specializing in building **secure, scalable, and high-performance applications** using Java and modern technologies.
 
-- 💬 Ask me about **html,css,react,javascript,node,mysql,mongodb,c,php**
+I combine strong **software engineering principles** with a **cybersecurity mindset**, ensuring that every system I design is not only functional but also resilient and secure.
 
-- 📫 How to reach me **rutayisiregael2000@gmail.com**
+- 🔹 Focused on Java backend development (Spring ecosystem)
+- 🔹 Passionate about secure system design and application security
+- 🔹 Experienced with cloud-native and containerized applications
+- 🔹 Continuously learning and building real-world projects
 
-- ⚡ Fun fact **I think am funny and humble**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/rutayisire-gael-b20372334/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rutayisire gael" height="30" width="40" /></a>
-<a href="https://fb.com/rutayisire gael" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rutayisire gael" height="30" width="40" /></a>
-</p>
+## 🛠️ Tech Stack
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+### 🔹 Backend & Java
+- Java (Advanced)
+- Spring Boot, Spring MVC, Spring AOP
+- REST API Development
+- Microservices Architecture
+- Maven / Gradle
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gael-iceman&show_icons=true&locale=en&layout=compact" alt="gael-iceman" /></p>
+### 🔹 Frontend
+- TypeScript, JavaScript
+- Angular, React
+- Material UI, Reactive Forms
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gael-iceman&show_icons=true&locale=en" alt="gael-iceman" /></p>
+### 🔹 Cloud & DevOps
+- Docker & Kubernetes
+- CI/CD Pipelines (GitLab)
+- Linux
+- Cloud Computing (AWS fundamentals)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gael-iceman&" alt="gael-iceman" /></p>
+### 🔹 Databases
+- PostgreSQL
+- MongoDB
 
+### 🔹 Cybersecurity
+- Secure Coding Practices
+- Authentication & Authorization (JWT, OAuth)
+- OWASP Top 10 Awareness
+- Basic Penetration Testing
+
+### 🔹 Testing & Practices
+- Test-Driven Development (TDD)
+- Unit & Integration Testing
+- Agile / Scrum methodologies
+
+---
+
+## 📂 Featured Projects
+
+### 🔐 Secure Java Backend System
+- Built a secure REST API using Spring Boot  
+- Implemented JWT authentication & role-based access  
+- Focused on API security and best practices  
+
+---
+
+### ⚙️ Microservices Architecture System
+- Designed scalable services using Spring Cloud  
+- Implemented API Gateway & service communication  
+- Focused on distributed systems design  
+
+---
+
+### ☁️ Cloud Deployment Project
+- Containerized applications using Docker  
+- Deployed using Kubernetes  
+- Implemented CI/CD pipelines  
+
+---
+
+### 🛡️ Cybersecurity Tool / Web App
+- Built a security-focused application  
+- Implemented input validation & encryption  
+- Simulated basic attack scenarios  
+
+---
+
+### 🌐 Full Stack Application
+- Java backend + modern frontend (React/Angular)  
+- REST API integration  
+- Dynamic UI and validation  
+
+---
+
+## ⚙️ Engineering Approach
+
+I follow a structured and professional development process:
+
+1. Requirement Analysis  
+2. System Design & Architecture  
+3. Clean & Scalable Development  
+4. Testing (Unit + Integration)  
+5. CI/CD Deployment  
+6. Monitoring & Optimization  
+
+---
+
+## 📈 What I Bring
+
+- Strong backend development skills in Java  
+- Security-first mindset in software development  
+- Experience with modern tools (Docker, CI/CD, cloud)  
+- Ability to design scalable and maintainable systems  
+- Problem-solving and analytical thinking  
+
+---
+
+## 🌍 Open to Opportunities
+
+I am open to **international opportunities**, especially in:
+
+- Backend Engineering (Java)
+- Cloud & Distributed Systems
+- Secure Application Development
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: rutayisiregael2000@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/rutayisire-gael-b20372334/ 
+- 💻 GitHub: https://github.com/Gael-iceman
+
+---
+
+## ⚡ Fun Fact
+
+I don't just build systems — I break and secure them too 🔐
