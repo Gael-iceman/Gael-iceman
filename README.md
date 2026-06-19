@@ -1,76 +1,29 @@
-# 👋 Hi, I'm Gael Rutayisire
+# Hey, I'm Gael 👋
 
-💻 Java Backend Engineer | 🔐 Cybersecurity Specialist | ☁️ Cloud & AI Enthusiast  
+Developer & cybersecurity enthusiast from Rwanda.
 
----
+I build secure apps, break things to understand them, and fix them before anyone notices.
 
-## 🚀 About Me
+## What I do
 
-I am a backend-focused software engineer specializing in building **secure, scalable, and high-performance applications** using Java and modern technologies.
+* 💻 Full-stack development (frontend + backend)
+* 🔐 Cybersecurity & secure systems
+* 📱 Building real-world apps (chat, safety tools, IoT stuff)
 
-I combine strong **software engineering principles** with a **cybersecurity mindset**, ensuring that every system I design is not only functional but also resilient and secure.
+## Current focus
 
-- 🔹 Focused on Java backend development (Spring ecosystem)
-- 🔹 Passionate about secure system design and application security
-- 🔹 Experienced with cloud-native and containerized applications
-- 🔹 Continuously learning and building real-world projects
+Turning ideas into working software without turning my laptop into a heater.
 
----
+## Projects
 
-## 🛠️ Tech Stack
+* SafeKid — parental control & safety platform
+* Secure chat experiments
+* Random IoT + automation projects that sometimes behave
 
-### 🔹 Backend & Java
-- Java (Advanced)
-- Spring Boot, Spring MVC, Spring AOP
-- REST API Development
-- Microservices Architecture
-- Maven / Gradle
+## Fun fact
 
-### 🔹 Frontend
-- TypeScript, JavaScript
-- Angular, React
-- Material UI, Reactive Forms
-
-### 🔹 Cloud & DevOps
-- Docker & Kubernetes
-- CI/CD Pipelines (GitLab)
-- Linux
-- Cloud Computing (AWS fundamentals)
-
-### 🔹 Databases
-- PostgreSQL
-- MongoDB
-
-### 🔹 Cybersecurity
-- Secure Coding Practices
-- Authentication & Authorization (JWT, OAuth)
-- OWASP Top 10 Awareness
-- Basic Penetration Testing
-
-### 🔹 Testing & Practices
-- Test-Driven Development (TDD)
-- Unit & Integration Testing
-- Agile / Scrum methodologies
----
-
-## 🌍 Open to Opportunities
-
-I am open to **international opportunities**, especially in:
-
-- Backend Engineering (Java)
-- Cloud & Distributed Systems
-- Secure Application Development
+If it works on the first try, I immediately assume something is wrong.
 
 ---
 
-## 📫 Contact Me
-
-- 📧 Email: rutayisiregael2000@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/rutayisire-gael-b20372334/ 
-- 💻 GitHub: https://github.com/Gael-iceman
-
----
-
-## ⚡ Fun Fact
-
-I don't just build systems — I break and secure them too 🔐
+Thanks for stopping by. You’ve now spent ~15 seconds here. Worth it 👍
